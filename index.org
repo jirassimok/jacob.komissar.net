@@ -5,6 +5,7 @@
 #+LINK: jirassimok https://jirassimok.github.io/
 #+LINK: github     https://github.com/jirassimok/
 #+LINK: doi        https://doi.org/
+#+LINK: gh         https://github.com/
 
 #+HTML_HEAD: <link rel="stylesheet" href="styles.css">
 
@@ -13,6 +14,13 @@
 #+END_CENTER
 
 * Open Source
+
+** Python Typeshed
+
+I [[gh:python/typeshed/pull/3451][updated and restructured]] the type stubs for
+Python's socket module. I added missing constants and methods (as of Python
+3.8), and improved the module's maintainability by organizing the type stubs to
+follow the documentation.
 
 ** [[github:presto-manager][Presto Manager]]
 
