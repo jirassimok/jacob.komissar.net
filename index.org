@@ -13,6 +13,11 @@
 [[https://github.com/jirassimok][jirassimok]] on GitHub
 #+END_CENTER
 
+* About
+
+This page is meant to show some of my previous work as a supplement to my
+resume, which is most likely how you found this page.
+
 * Open Source
 
 ** Python Typeshed
